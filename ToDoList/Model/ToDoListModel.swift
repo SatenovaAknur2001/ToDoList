@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct ToDoList{
+    var title: String
+    var subTitle: String
+}
