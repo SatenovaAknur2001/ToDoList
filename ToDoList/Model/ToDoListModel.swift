@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct ToDoList{
-    var title: String
-    var subTitle: String
-}
+//struct ToDoList {
+//    var title: String
+//    var subTitle: String
+//}
